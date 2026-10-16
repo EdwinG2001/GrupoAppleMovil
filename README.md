@@ -57,7 +57,7 @@ php spark serve --host 0.0.0.0
 1. Pasa el archivo `GrupoApple_Movil.apk` a tu teléfono Android.
 2. Ábrelo e instálalo (permite la instalación de orígenes desconocidos si el sistema lo solicita).
 3. Abre la app **Grupo Apple** y usa el **Selector de Red** para conectarte a tu servidor con 1 solo toque.
-## Estado del proyecto
+4. ## Estado del proyecto
 Proyecto activo y en constante actualización.
 
 https://drive.google.com/drive/folders/1v2-MPSigo0rU603a2XYabSI05R-bjWcF?usp=sharing (video de Funcionamiento)
