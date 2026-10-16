@@ -124,3 +124,14 @@ _modules/*
 
 /results/
 /phpunit.xml
+# Archivos de configuración local
+.env.local
+.env.development.local
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+
+
+
