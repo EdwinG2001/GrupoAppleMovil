@@ -61,3 +61,9 @@ php spark serve --host 0.0.0.0
 Proyecto activo y en constante actualización.
 
 https://drive.google.com/drive/folders/1v2-MPSigo0rU603a2XYabSI05R-bjWcF?usp=sharing (video de Funcionamiento)
+Integrantes:
+-Caisa Preciado Franklin 
+-Cabezas Pruna Angelo
+-Caicedo Zuñiga Dario
+-Corozo Ángulo Milena
+-San Lucas Arroyo Edwin
